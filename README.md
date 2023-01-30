@@ -23,7 +23,7 @@ Important properties: low elasticity, low cost, low friction, availability of co
 
 | Material | Other Names | Flexural Modulus | Coefficient of Friction, Static | Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| [Acetal, Copolymer (unreinforced, extruded)]([https://www.matweb.com/search/DataSheet.aspx?MatGUID=c6564de5b78a4887850d777d445c9ca7](https://www.matweb.com/search/DataSheet.aspx?MatGUID=41729a655cb24c949f1361cc6b5b1a5d) | POM-C, Delrin | 2.66 GPa	| |
+| [Acetal, Copolymer (unreinforced, extruded)](https://www.matweb.com/search/DataSheet.aspx?MatGUID=41729a655cb24c949f1361cc6b5b1a5d) | POM-C, Delrin | 2.66 GPa	| |
 | [Acetal, Homopolymer (unreinforced, extruded)](https://www.matweb.com/search/DataSheet.aspx?MatGUID=c6564de5b78a4887850d777d445c9ca7) | POM-H | 3.45 GPa | |
 | [Nylon 66  (unreinforced, extruded)](https://www.matweb.com/search/DataSheet.aspx?MatGUID=25c36a3b22a44c0784cc29aae943a550)) | Polyamide 66, PA 66 | 3.10 GPa | | |
 | Aluminum 2011 | | 70.3 GPa | | [Machinability: 90%](https://www.matweb.com/search/DataSheet.aspx?MatGUID=8c05024423d64aaab0148295c5a57067) |
