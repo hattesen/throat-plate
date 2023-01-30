@@ -6,6 +6,7 @@
 
 * Machined from 10-12 mm sheet (depending on elasticity)
 * Designed for 3-axis machining
+* Low tolerance requirements
 * Floor fillets in pockets?
   * Do they add cost if a _Bull Nose End Mill_ is used and its radius matches the floor fillet?
   * Should the design include fillets, or _Bull Nose End Mill_ be specified separately for the pockets.
