@@ -25,7 +25,7 @@ Important properties: low elasticity, low cost, low friction, availability of co
 | :--- | :--- | :--- | :--- | :--- |
 | [Acetal, Copolymer (unreinforced, extruded)]([https://www.matweb.com/search/DataSheet.aspx?MatGUID=c6564de5b78a4887850d777d445c9ca7](https://www.matweb.com/search/DataSheet.aspx?MatGUID=41729a655cb24c949f1361cc6b5b1a5d) | POM-C, Delrin | 2.66 GPa	| |
 | [Acetal, Homopolymer (unreinforced, extruded)](https://www.matweb.com/search/DataSheet.aspx?MatGUID=c6564de5b78a4887850d777d445c9ca7) | POM-H | 3.45 GPa | |
-| [Nylon 12  (unreinforced)](https://en.wikipedia.org/wiki/Nylon_12) | Polyamide 12, PA 12 | [0.912 GPa (0.332 - 2.23)]() | | |
+| [Nylon 66  (unreinforced, extruded)](https://www.matweb.com/search/DataSheet.aspx?MatGUID=25c36a3b22a44c0784cc29aae943a550)) | Polyamide 66, PA 66 | 3.10 GPa | | |
 | Aluminum 2011 | | 70.3 GPa | | [Machinability: 90%](https://www.matweb.com/search/DataSheet.aspx?MatGUID=8c05024423d64aaab0148295c5a57067) |
 | Aluminum 3003 | | 68.9 GPa | | [Machinability: 30%](https://www.matweb.com/search/DataSheet.aspx?MatGUID=fd4a40f87d3f4912925e5e6eab1fbc40) |
 | [Aluminum](https://en.wikipedia.org/wiki/Aluminium_alloy#Wrought_alloys), 6061 | | [68.9 GPa](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) | | [Machinability: 30%](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) |
