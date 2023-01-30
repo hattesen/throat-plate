@@ -16,7 +16,7 @@
 
 ## Material
 
-Important properties: elasticity, cost, friction, colors (blue, red, yellow, green).
+Important properties: rigidity, cost, friction, colors (blue, red, yellow, green).
 
 | Material | Other Names | Flexural Modulus | Coefficient of Friction, Static | Notes |
 | :--- | :--- | :--- | :--- | :--- |
