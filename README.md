@@ -26,7 +26,7 @@ Important properties: low elasticity, low cost, low friction, availability of co
 | [Nylon 12 (unfilled)](https://en.wikipedia.org/wiki/Nylon_12) | Polyamide 12, PA 12 | [0.912 GPa (0.332 - 2.23)]() | | |
 | Aluminum 2011 | (Alloy) | 70.3 GPa | | [Machinability: 90%](https://www.matweb.com/search/DataSheet.aspx?MatGUID=8c05024423d64aaab0148295c5a57067) |
 | Aluminum 3003 | (Alloy) | 68.9 GPa | | [Machinability: 30%](https://www.matweb.com/search/DataSheet.aspx?MatGUID=fd4a40f87d3f4912925e5e6eab1fbc40) |
-| [Aluminum](https://www.weerg.com/guides/aluminium-alloy-grades-and-applications), 6061-O | *** (Alloy) | [68.9 GPa](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) | | [Machinability: 30%](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) |
+| [Aluminum](https://en.wikipedia.org/wiki/Aluminium_alloy#Wrought_alloys), 6061 | *** (Alloy) | [68.9 GPa](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) | | [Machinability: 30%](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) |
 | Aluminum 1100 | (99% pure) | [68.9 GPa](https://www.matweb.com/search/DataSheet.aspx?MatGUID=db0307742df14c8f817bd8d62207368e) | | [Machinability: 10%](https://www.matweb.com/search/datasheet.aspx?matguid=db0307742df14c8f817bd8d62207368e) |
 
 
