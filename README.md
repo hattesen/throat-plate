@@ -77,5 +77,7 @@ Important properties: low elasticity, low cost, low friction, availability of co
 
 ## DeWalt zero clearance insert
 
-For DW945, ... TODO
+Fits DeWalt DW744, DW745, DW746, DWE7470?, DWE7480, DWE7485?, DCS7485+, DWE7490, DWE7491, DWE7492, DWE7499 Table Saws
+
+
 
