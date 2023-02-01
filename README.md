@@ -79,7 +79,7 @@ Refer to [McMaster Carr](https://www.mcmaster.com/plastics/shape~sheet-and-bar/)
   * https://www.tophpl.com/Compact-Laminate-pl6538776.html
   * https://www.hpl-furniture.com/sale-13562188-cnc-machining-hpl-phenolic-laminate-sheet-solid-core-6mm-hpl-sheet.html
   * https://www.bokalabfurniture.com/lab-worktops/phenolic-resin-tops/solid-core-phenolic-resin-board-for.html
-  * 
+  * https://www.alibaba.com/product-detail/customized-phenolic-resin-compact-laminate-hpl_60713536399.html
 * Previous Contact
   * https://sinorisemfg.com/ (China, previous offers via Alibaba)
   * [Qingdao Tongxingrui Metal Products Co., Ltd](https://www.company-list.org/qingdao_tongxingrui_metal_products_co_ltd.html) (China, previous orders via Alibaba, aluminum)
