@@ -47,6 +47,8 @@ Refer to [McMaster Carr](https://www.mcmaster.com/plastics/shape~sheet-and-bar/)
 | Aluminum 3003 | | 68.9 GPa | | [Machinability: 30%](https://www.matweb.com/search/DataSheet.aspx?MatGUID=fd4a40f87d3f4912925e5e6eab1fbc40) |
 | [Aluminum](https://en.wikipedia.org/wiki/Aluminium_alloy#Wrought_alloys), 6061 | | [68.9 GPa](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) | | [Machinability: 30%](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) |
 | Aluminum 1100 | | [68.9 GPa](https://www.matweb.com/search/DataSheet.aspx?MatGUID=db0307742df14c8f817bd8d62207368e) | | [Machinability: 10%](https://www.matweb.com/search/datasheet.aspx?matguid=db0307742df14c8f817bd8d62207368e) |
+| [High Pressure Laminate](https://www.alibaba.com/showroom/hpl.html) | HPL | | | Available with surface colors. Used by Leecraft Zero-Clearance Table Saw Insert |
+
 
 ## CNC Machining Suppliers
 
