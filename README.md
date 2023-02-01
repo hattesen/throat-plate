@@ -47,7 +47,7 @@ Refer to [McMaster Carr](https://www.mcmaster.com/plastics/shape~sheet-and-bar/)
 | Aluminum 3003 | | 68.9 GPa | | [Machinability: 30%](https://www.matweb.com/search/DataSheet.aspx?MatGUID=fd4a40f87d3f4912925e5e6eab1fbc40) |
 | [Aluminum](https://en.wikipedia.org/wiki/Aluminium_alloy#Wrought_alloys), 6061 | | [68.9 GPa](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) | | [Machinability: 30%](https://www.matweb.com/search/datasheet.aspx?MatGUID=626ec8cdca604f1994be4fc2bc6f7f63) |
 | Aluminum 1100 | | [68.9 GPa](https://www.matweb.com/search/DataSheet.aspx?MatGUID=db0307742df14c8f817bd8d62207368e) | | [Machinability: 10%](https://www.matweb.com/search/datasheet.aspx?matguid=db0307742df14c8f817bd8d62207368e) |
-| [High Pressure Laminate](https://www.alibaba.com/showroom/hpl.html) | HPL | | | Available with surface colors. Used by Leecraft Zero-Clearance Table Saw Insert |
+| [High Pressure Laminate](https://www.alibaba.com/showroom/hpl.html) | HPL | | | [Properties](https://aciplastics.net/wp-content/uploads/2014/11/High-Pressure-LaminatesHPL-Properties.pdf) Available with surface colors. Used by Leecraft Zero-Clearance Table Saw Insert |
 
 
 ## CNC Machining Suppliers
@@ -75,6 +75,11 @@ Refer to [McMaster Carr](https://www.mcmaster.com/plastics/shape~sheet-and-bar/)
 * EU, Instant Quote
   * [Xometry](https://xometry.eu/en/cnc-milling/)  (USA/Europe, instant quote)
   * [Hubs](https://www.hubs.com/cnc-machining/cnc-milling-service/) (USA/EU, instant quote)
+* Combined Phenolic High Pressure Laminate (HPL) and CNC Machining
+  * https://www.tophpl.com/Compact-Laminate-pl6538776.html
+  * https://www.hpl-furniture.com/sale-13562188-cnc-machining-hpl-phenolic-laminate-sheet-solid-core-6mm-hpl-sheet.html
+  * https://www.bokalabfurniture.com/lab-worktops/phenolic-resin-tops/solid-core-phenolic-resin-board-for.html
+  * 
 * Previous Contact
   * https://sinorisemfg.com/ (China, previous offers via Alibaba)
   * [Qingdao Tongxingrui Metal Products Co., Ltd](https://www.company-list.org/qingdao_tongxingrui_metal_products_co_ltd.html) (China, previous orders via Alibaba, aluminum)
