@@ -36,6 +36,8 @@
 
 Important properties: low elasticity, low cost, low friction, availability of colors (blue, red, yellow, green).
 
+Refer to [McMaster Carr](https://www.mcmaster.com/plastics/shape~sheet-and-bar/) for material properties and cost.
+
 | Material | Other Names | Flexural Modulus | Coefficient of Friction, Static | Notes |
 | :--- | :--- | :--- | :--- | :--- |
 | [Acetal, Copolymer (unreinforced, extruded)](https://www.matweb.com/search/DataSheet.aspx?MatGUID=41729a655cb24c949f1361cc6b5b1a5d) | POM-C | 2.66 GPa	| |
