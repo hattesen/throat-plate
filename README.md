@@ -15,7 +15,7 @@
 * Drill holes in sides of 10 mm plate?
   Does the object need to be mounted vertically? Cost?
 * Chamfering bottom edge of object?
-  Does the object (sheet) need to be turned, or can a fillet be made using a dovetail mill?
+  Does the object (sheet) need to be turned, or can a chamfer be made using a 45° dovetail/bottom chamfer  mill?
 
 
 ## Mill Tools
