@@ -88,5 +88,10 @@ Refer to [McMaster Carr](https://www.mcmaster.com/plastics/shape~sheet-and-bar/)
 
 Fits DeWalt DW744, DW745, DW746, DWE7470?, DWE7480, DWE7485?, DCS7485+, DWE7490, DWE7491, DWE7492, DWE7499 Table Saws
 
+## Resources
+
+[Overview](https://www.highlandwoodworking.com/zero-clearancethroatplate.aspx) of throat plate compatibility (US Brands)
+
+
 
 
